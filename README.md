@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 <table>
   <tbody>
     <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwallet&langs_count=8&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwallet&langs_count=8&layout=compact&hide_border=true" />
     </td>
     <td>
-<img src="https://github-readme-stats.vercel.app/api?username=jwallet&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=jwallet&show_icons=true&hide_border=true" />
     </td>
   </tbody>
 </table>
