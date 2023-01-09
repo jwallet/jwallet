@@ -13,5 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwallet&langs_count=8&layout=compact)
-![stats](https://github-readme-stats.vercel.app/api?username=jwallet&show_icons=true)
+<table>
+  <tbody>
+    <td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwallet&langs_count=8&layout=compact" />
+    </td>
+    <td>
+<img src="https://github-readme-stats.vercel.app/api?username=jwallet&show_icons=true" />
+    </td>
+  </tbody>
+</table>
