@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jwallet/jwallet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwallet&langs_count=8&layout=compact)
+![stats](https://github-readme-stats.vercel.app/api?username=jwallet&show_icons=true)
